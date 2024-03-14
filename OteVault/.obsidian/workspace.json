@@ -8,91 +8,31 @@
         "type": "tabs",
         "children": [
           {
-            "id": "db11b660866fe96e",
+            "id": "e04b069686ede9ac",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "To keepass.md",
+                "file": "SQL - ORACLE/Oracle WebLogic Console.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "c07a973d0e4d20e0",
+            "id": "2941416f03bb6d99",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "To keepass.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "f34b28a116f28b38",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Python/Python Install.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "95a0793a2b44d400",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Infastruture n Design/Databases - Datasource.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "7117c73f182aaf54",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Infastruture n Design/Databases - Coherence.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "20e0513b6c61831c",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Degredation Error.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "245975ca1f9c6ca8",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Infastruture n Design/Databases - Datasource.md",
+                "file": "SQL - ORACLE/Oracle WebLogic Console.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 5
+        "currentTab": 1
       },
       {
         "id": "fe22d7aad363aec0",
@@ -102,11 +42,40 @@
             "id": "19c4d66c7342bf91",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "General Errors/Alarm ngnex error, 40 instances.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "206acb00e8836f55",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Export and Import Envo.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "0fde94d96a6b2e55",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Useful Notes.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -172,7 +141,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Degredation Error.md",
+                "file": "SQL - ORACLE/Oracle WebLogic Console.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -189,7 +158,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Degredation Error.md",
+                "file": "SQL - ORACLE/Oracle WebLogic Console.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -212,7 +181,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Degredation Error.md"
+                "file": "SQL - ORACLE/Oracle WebLogic Console.md"
               }
             }
           }
@@ -233,17 +202,27 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "20e0513b6c61831c",
+  "active": "2941416f03bb6d99",
   "lastOpenFiles": [
-    "Infastruture n Design/Databases - Coherence.md",
-    "Degredation Error.md",
-    "Infastruture n Design/Untitled.md",
     "Useful Notes.md",
-    "Infastruture n Design/Databases - Datasource.md",
+    "SQL - ORACLE/Oracle WebLogic Console.md",
+    "General Errors/Alarm ngnex error, 40 instances.md",
+    "SiteScope.md",
+    "Degredation Error.md",
+    "SQL - ORACLE/New Connection, Oracle.md",
+    "Linux Server Terminal.md",
+    "Export and Import Envo.md",
+    "Python/Python Install.md",
+    "Python/Excel Reading.md",
+    "Trivial Pursuit.md",
+    "SQL - ORACLE",
     "To keepass.md",
     "Dynatrace General.md",
+    "Infastruture n Design/Untitled.md",
+    "Infastruture n Design/Databases - Coherence.md",
+    "General Errors",
+    "Infastruture n Design/Databases - Datasource.md",
     "Infastruture n Design",
-    "Python/Python Install.md",
     "Python"
   ]
 }
