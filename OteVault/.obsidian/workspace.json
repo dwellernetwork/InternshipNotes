@@ -6,6 +6,7 @@
       {
         "id": "f2eadafd0bfa78df",
         "type": "tabs",
+        "dimension": 50,
         "children": [
           {
             "id": "e04b069686ede9ac",
@@ -25,43 +26,56 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "SQL - ORACLE/Oracle WebLogic Console.md",
+                "file": "Python/Python openpyxl.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "36246b646fdc2e83",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Kubernetes.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "d6e35b3d733e4493",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Kubernetes.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "d9ef47ccaceeb1b2",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Kubernetes.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 4
       },
       {
         "id": "fe22d7aad363aec0",
         "type": "tabs",
+        "dimension": 50,
         "children": [
-          {
-            "id": "19c4d66c7342bf91",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "General Errors/Alarm ngnex error, 40 instances.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "206acb00e8836f55",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Export and Import Envo.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
           {
             "id": "0fde94d96a6b2e55",
             "type": "leaf",
@@ -74,8 +88,7 @@
               }
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -141,7 +154,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "SQL - ORACLE/Oracle WebLogic Console.md",
+                "file": "Useful Notes.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -158,7 +171,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "SQL - ORACLE/Oracle WebLogic Console.md",
+                "file": "Useful Notes.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -181,7 +194,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "SQL - ORACLE/Oracle WebLogic Console.md"
+                "file": "Useful Notes.md"
               }
             }
           }
@@ -202,26 +215,30 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "2941416f03bb6d99",
+  "active": "0fde94d96a6b2e55",
   "lastOpenFiles": [
+    "Kubernetes.md",
+    "Vasikoi Oroi.md",
+    "Call, 19-03-2024.md",
     "Useful Notes.md",
-    "SQL - ORACLE/Oracle WebLogic Console.md",
-    "General Errors/Alarm ngnex error, 40 instances.md",
-    "SiteScope.md",
-    "Degredation Error.md",
-    "SQL - ORACLE/New Connection, Oracle.md",
-    "Linux Server Terminal.md",
     "Export and Import Envo.md",
-    "Python/Python Install.md",
-    "Python/Excel Reading.md",
-    "Trivial Pursuit.md",
-    "SQL - ORACLE",
-    "To keepass.md",
-    "Dynatrace General.md",
+    "General Errors/Alarm ngnex error, 40 instances.md",
+    "SQL - ORACLE/Oracle WebLogic Console.md",
+    "Linux Server Terminal.md",
     "Infastruture n Design/Untitled.md",
-    "Infastruture n Design/Databases - Coherence.md",
-    "General Errors",
     "Infastruture n Design/Databases - Datasource.md",
+    "Infastruture n Design/Databases - Coherence.md",
+    "Degredation Error.md",
+    "Python/Python Install.md",
+    "Dynatrace General.md",
+    "To keepass.md",
+    "SiteScope.md",
+    "Trivial Pursuit.md",
+    "Python/Python openpyxl.md",
+    "Python/Excel Reading.md",
+    "SQL - ORACLE/New Connection, Oracle.md",
+    "SQL - ORACLE",
+    "General Errors",
     "Infastruture n Design",
     "Python"
   ]
