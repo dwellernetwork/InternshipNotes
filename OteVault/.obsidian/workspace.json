@@ -6,7 +6,6 @@
       {
         "id": "f2eadafd0bfa78df",
         "type": "tabs",
-        "dimension": 50,
         "children": [
           {
             "id": "e04b069686ede9ac",
@@ -21,74 +20,19 @@
             }
           },
           {
-            "id": "2941416f03bb6d99",
+            "id": "3cf77abd62064959",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Python/Python openpyxl.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "36246b646fdc2e83",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Kubernetes.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "d6e35b3d733e4493",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Kubernetes.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "d9ef47ccaceeb1b2",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Kubernetes.md",
+                "file": "Python/Count Array.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 4
-      },
-      {
-        "id": "fe22d7aad363aec0",
-        "type": "tabs",
-        "dimension": 50,
-        "children": [
-          {
-            "id": "0fde94d96a6b2e55",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Useful Notes.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          }
-        ]
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -154,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Useful Notes.md",
+                "file": "Python/Count Array.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -171,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Useful Notes.md",
+                "file": "Python/Count Array.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -194,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Useful Notes.md"
+                "file": "Python/Count Array.md"
               }
             }
           }
@@ -215,28 +159,34 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "0fde94d96a6b2e55",
+  "active": "3cf77abd62064959",
   "lastOpenFiles": [
-    "Kubernetes.md",
-    "Vasikoi Oroi.md",
-    "Call, 19-03-2024.md",
-    "Useful Notes.md",
-    "Export and Import Envo.md",
+    "Python/True Refactoring - Chatzhiathanasiou Athanasios.md",
+    "Python/Count Array.md",
+    "Python/Excel Reading.md",
+    "Python/Python openpyxl.md",
+    "Python/Python Install.md",
+    "Python/Chatziathanasiou Athanasios  Refactoring Code Ziebel.md",
+    "NOTE TO PUSH.md",
+    "General Errors/LB Error.md",
+    "General Errors/BULK SENT TOOL.md",
     "General Errors/Alarm ngnex error, 40 instances.md",
-    "SQL - ORACLE/Oracle WebLogic Console.md",
-    "Linux Server Terminal.md",
     "Infastruture n Design/Untitled.md",
     "Infastruture n Design/Databases - Datasource.md",
     "Infastruture n Design/Databases - Coherence.md",
+    "Linux Server Terminal.md",
+    "IDEAS.md",
+    "Kubernetes.md",
+    "SiteScope.md",
+    "SQL - ORACLE/New Connection, Oracle.md",
     "Degredation Error.md",
-    "Python/Python Install.md",
+    "Call, 19-03-2024.md",
+    "Useful Notes.md",
+    "Vasikoi Oroi.md",
+    "Export and Import Envo.md",
+    "SQL - ORACLE/Oracle WebLogic Console.md",
     "Dynatrace General.md",
     "To keepass.md",
-    "SiteScope.md",
-    "Trivial Pursuit.md",
-    "Python/Python openpyxl.md",
-    "Python/Excel Reading.md",
-    "SQL - ORACLE/New Connection, Oracle.md",
     "SQL - ORACLE",
     "General Errors",
     "Infastruture n Design",

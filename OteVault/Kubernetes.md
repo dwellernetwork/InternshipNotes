@@ -1,7 +1,7 @@
 ### Namespace 
 -You run a batch script
 	-You make the script think its alone in a whole operating system. This is called a
-	##NAMESPACE
+	## NAMESPACE
 
 ### Docker 
 -Has a scripting language which made it so popular.
