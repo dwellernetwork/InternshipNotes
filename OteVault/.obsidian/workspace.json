@@ -8,18 +8,27 @@
         "type": "tabs",
         "children": [
           {
-            "id": "6a62ea9dc59ddf16",
+            "id": "85cc33f2ee82ad8c",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {}
+            }
+          },
+          {
+            "id": "b1fb135fc4809500",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "HackerRank Problem Analysis.md",
+                "file": "WebDev/-WebDev-.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -69,7 +78,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 200
   },
   "right": {
     "id": "3abd192717252748",
@@ -85,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "HackerRank Problem Analysis.md",
+                "file": "WebDev/-WebDev-.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +111,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "HackerRank Problem Analysis.md",
+                "file": "WebDev/-WebDev-.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +134,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "HackerRank Problem Analysis.md"
+                "file": "WebDev/-WebDev-.md"
               }
             }
           }
@@ -146,38 +155,44 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "6a62ea9dc59ddf16",
+  "active": "b1fb135fc4809500",
   "lastOpenFiles": [
+    "WebDev/React. Questions and Answers..md",
+    "Infastruture n Design/Kubernetes.md",
     "General Errors/Alarm ngnex error, 40 instances.md",
-    "HackerRank Problem Analysis.md",
     "General Errors/BULK SENT TOOL.md",
-    "Call, 19-03-2024.md",
-    "SQL - ORACLE/Oracle WebLogic Console.md",
-    "Git/Git basic commands.md",
-    "Python/Chatziathanasiou Athanasios  Refactoring Code Ziebel.md",
-    "Git",
-    "Python/True Refactoring - Chatzhiathanasiou Athanasios.md",
-    "Python/Python Install.md",
-    "Python/Count Array.md",
-    "Python/Excel Reading.md",
-    "Python/Python openpyxl.md",
-    "NOTE TO PUSH.md",
+    "General Errors/General Errors.md",
     "General Errors/LB Error.md",
-    "Infastruture n Design/Untitled.md",
-    "Infastruture n Design/Databases - Datasource.md",
+    "Git/Git basic commands.md",
     "Infastruture n Design/Databases - Coherence.md",
-    "Linux Server Terminal.md",
-    "IDEAS.md",
-    "Kubernetes.md",
-    "SiteScope.md",
-    "SQL - ORACLE/New Connection, Oracle.md",
-    "Degredation Error.md",
-    "Useful Notes.md",
-    "Vasikoi Oroi.md",
-    "Export and Import Envo.md",
-    "SQL - ORACLE",
-    "General Errors",
-    "Infastruture n Design",
-    "Python"
+    "Infastruture n Design/Databases - Datasource.md",
+    "Infastruture n Design/Infastructure n Design.md",
+    "Notes And IDEAS.md",
+    "OPERATIONS/PERSONAL - Reddit NSFW modal blocking.md",
+    "OPERATIONS/SiteScope n Python Operation.md",
+    "Python/Python.md",
+    "SQL - ORACLE/-SQL n ORACLE-.md",
+    "Terminals - CMD/-Terminals - CMD-.md",
+    "WebDev/-WebDev-.md",
+    "Very Personal/Very Personal.md",
+    "OPERATIONS/DYNATRACE RESTART REQUIRED.md",
+    "AAA Raw Notes.md",
+    "Terminals - CMD/Useful Commands.md",
+    "Terminals - CMD/Linux Server Terminal.md",
+    "WebDev/Strapi Cart Get and post.md",
+    "Very Personal/IDEAS.md",
+    "Very Personal/Trivial Pursuit.md",
+    "Very Personal/LinkedIn.md",
+    "Pasted image 20240603165010.png",
+    "Very Personal",
+    "Passwords",
+    "Sitescope",
+    "OPERATIONS",
+    "Terminals - CMD",
+    "Untitled",
+    "WebDev",
+    "Siebel Resubmit",
+    "Git",
+    "SQL - ORACLE"
   ]
 }

@@ -1,0 +1,3 @@
+I'm an avid homecook. Food is one of the best ways to bring people and friends together, and I also really enjoy getting to know a person! Despite being a bit shy, communication is really important for me, and especially listening to people's ideas, passions, and views of the world. Psychology is yet another topic that deeply fascinates me, and I can talk about it for hours.
+
+I read sci-fi series, like Dune, and Warhammer 40k. I listen to a lot of music. Melodic metal is one of my favorite genres, as I carry the metalhead gene in my blood. But my tastes are also not limited to Indie rock, Electro-House, and also video game and movie soundtracks. (Nier Automata is my number 1 game OST).

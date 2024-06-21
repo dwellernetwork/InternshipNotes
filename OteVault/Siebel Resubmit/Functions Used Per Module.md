@@ -1,0 +1,12 @@
+main():
+	CreateLogFile
+	RetrieveOrders
+	WriteLog
+	RetrieveCustomers()
+	CreateEbmId
+	InsertIntoLog
+	CreateDriver
+	LogIn
+	ConnectToOtemig
+	SubmitCustomer
+	SubmitBillingAccount
