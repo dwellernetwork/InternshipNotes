@@ -26,9 +26,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "dc4002a0556e84ed",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Python/Palindrome.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -78,7 +90,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 256.5
   },
   "right": {
     "id": "3abd192717252748",
@@ -94,7 +106,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "WebDev/-WebDev-.md",
+                "file": "Python/Palindrome.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,7 +123,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "WebDev/-WebDev-.md",
+                "file": "Python/Palindrome.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -134,7 +146,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "WebDev/-WebDev-.md"
+                "file": "Python/Palindrome.md"
               }
             }
           }
@@ -155,44 +167,44 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "b1fb135fc4809500",
+  "active": "dc4002a0556e84ed",
   "lastOpenFiles": [
-    "WebDev/React. Questions and Answers..md",
-    "Infastruture n Design/Kubernetes.md",
     "General Errors/Alarm ngnex error, 40 instances.md",
     "General Errors/BULK SENT TOOL.md",
     "General Errors/General Errors.md",
-    "General Errors/LB Error.md",
-    "Git/Git basic commands.md",
-    "Infastruture n Design/Databases - Coherence.md",
-    "Infastruture n Design/Databases - Datasource.md",
-    "Infastruture n Design/Infastructure n Design.md",
-    "Notes And IDEAS.md",
-    "OPERATIONS/PERSONAL - Reddit NSFW modal blocking.md",
-    "OPERATIONS/SiteScope n Python Operation.md",
-    "Python/Python.md",
-    "SQL - ORACLE/-SQL n ORACLE-.md",
+    "General Errors/Degredation Error.md",
     "Terminals - CMD/-Terminals - CMD-.md",
+    "000 INDEX/010 CODING.md",
+    "Github - Gitlabs/Github - Gitlabs.md",
     "WebDev/-WebDev-.md",
-    "Very Personal/Very Personal.md",
+    "000 INDEX/020 SOFTWARE DEPLOYMENT.md",
+    "Python/Python.md",
+    "000 INDEX/030 INCIDENTS N PROJECTS.md",
+    "000 INDEX/OTE DIGITAL TOOLS.md",
+    "000 INDEX/000 MOTHERLODE OF KNOWLEDGE.md",
+    "Siebel Resubmit/Functions Used Per Module.md",
+    "Siebel Resubmit/Siebel Resubmit.md",
+    "Siebel Resubmit/True Refactoring - Chatzhiathanasiou Athanasios.md",
+    "Python/HackerRank Problems n Analysis.md",
+    "Python/Count Array.md",
+    "Python/Excel Reading.md",
+    "Python/Palindrome.md",
+    "Python/Test Foldr",
+    "Github - Gitlabs/Git basic commands.md",
+    "OPERATIONS/OPERATIONS.md",
+    "OPERATIONS/Onboarding Agentonboarding.md",
+    "OPERATIONS/Call, 19-03-2024.md",
     "OPERATIONS/DYNATRACE RESTART REQUIRED.md",
-    "AAA Raw Notes.md",
-    "Terminals - CMD/Useful Commands.md",
-    "Terminals - CMD/Linux Server Terminal.md",
-    "WebDev/Strapi Cart Get and post.md",
-    "Very Personal/IDEAS.md",
-    "Very Personal/Trivial Pursuit.md",
-    "Very Personal/LinkedIn.md",
+    "Databases/-SQL n ORACLE-.md",
+    "Hosting",
+    "Databases",
+    "000 INDEX",
     "Pasted image 20240603165010.png",
     "Very Personal",
     "Passwords",
-    "Sitescope",
+    "Monitoring",
     "OPERATIONS",
     "Terminals - CMD",
-    "Untitled",
-    "WebDev",
-    "Siebel Resubmit",
-    "Git",
-    "SQL - ORACLE"
+    "WebDev"
   ]
 }
