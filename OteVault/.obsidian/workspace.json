@@ -33,7 +33,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Python/Palindrome.md",
+                "file": "000 INDEX/OTE DIGITAL TOOLS.md",
                 "mode": "source",
                 "source": false
               }
@@ -106,7 +106,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Python/Palindrome.md",
+                "file": "000 INDEX/OTE DIGITAL TOOLS.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -123,7 +123,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Python/Palindrome.md",
+                "file": "000 INDEX/OTE DIGITAL TOOLS.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -146,7 +146,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Python/Palindrome.md"
+                "file": "000 INDEX/OTE DIGITAL TOOLS.md"
               }
             }
           }
@@ -169,33 +169,33 @@
   },
   "active": "dc4002a0556e84ed",
   "lastOpenFiles": [
-    "General Errors/Alarm ngnex error, 40 instances.md",
-    "General Errors/BULK SENT TOOL.md",
+    "000 INDEX/020 SOFTWARE DEPLOYMENT.md",
+    "000 INDEX/030 INCIDENTS N PROJECTS.md",
+    "Very Personal/Very Personal.md",
+    "Very Personal/IDEAS.md",
+    "Very Personal/Gave me the funny.md",
+    "Very Personal/LinkedIn.md",
+    "Very Personal/Sweeteners.md",
+    "Very Personal/Trivial Pursuit.md",
+    "Very Personal/NOTE TO PUSH.md",
+    "000 INDEX/010 CODING.md",
+    "WebDev/JAVASCRIPT.md",
+    "Terminals - CMD/Useful Commands.md",
+    "Terminals - CMD/Linux Server Terminal.md",
+    "Terminals - CMD/-Terminals - CMD-.md",
+    "Siebel Resubmit/True Refactoring - Chatzhiathanasiou Athanasios.md",
+    "Python/Python openpyxl.md",
+    "Python/Python Install.md",
+    "Python/Python.md",
+    "Python/py transform data.md",
+    "Python/Excel Reading.md",
+    "Python/HackerRank Problems n Analysis.md",
+    "Python/Palindrome.md",
+    "General Errors/LB Error.md",
     "General Errors/General Errors.md",
     "General Errors/Degredation Error.md",
-    "Terminals - CMD/-Terminals - CMD-.md",
-    "000 INDEX/010 CODING.md",
-    "Github - Gitlabs/Github - Gitlabs.md",
-    "WebDev/-WebDev-.md",
-    "000 INDEX/020 SOFTWARE DEPLOYMENT.md",
-    "Python/Python.md",
-    "000 INDEX/030 INCIDENTS N PROJECTS.md",
-    "000 INDEX/OTE DIGITAL TOOLS.md",
-    "000 INDEX/000 MOTHERLODE OF KNOWLEDGE.md",
-    "Siebel Resubmit/Functions Used Per Module.md",
-    "Siebel Resubmit/Siebel Resubmit.md",
-    "Siebel Resubmit/True Refactoring - Chatzhiathanasiou Athanasios.md",
-    "Python/HackerRank Problems n Analysis.md",
-    "Python/Count Array.md",
-    "Python/Excel Reading.md",
-    "Python/Palindrome.md",
+    "General Errors/BULK SENT TOOL.md",
     "Python/Test Foldr",
-    "Github - Gitlabs/Git basic commands.md",
-    "OPERATIONS/OPERATIONS.md",
-    "OPERATIONS/Onboarding Agentonboarding.md",
-    "OPERATIONS/Call, 19-03-2024.md",
-    "OPERATIONS/DYNATRACE RESTART REQUIRED.md",
-    "Databases/-SQL n ORACLE-.md",
     "Hosting",
     "Databases",
     "000 INDEX",
